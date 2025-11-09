@@ -21,7 +21,7 @@ The **Annual Sales Report Dashboard** is an interactive **Excel-based analytics 
 ---
 
 ## 🖼️ Dashboard Preview  
-![Dashboard Preview](images/dashboard-overview.png)  
+![Dashboard Preview](excel.png)  
 
 > *(Replace with your actual image path or upload your screenshot to the repository and update the link.)*  
 
