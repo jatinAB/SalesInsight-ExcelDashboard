@@ -1,45 +1,60 @@
-# Annual Sales Report Dashboard
-
-## Overview
-This project features an Excel-based dashboard designed to analyze and visualize the annual sales performance of a store. It provides insights into sales trends, customer demographics, and product performance through interactive slicers and visuals.
-
----
-
-## What’s Included
-- **Interactive Filters**: Slicers for Category, Sales Channel, and Month to dynamically explore data.
-- **Visualizations**:
-  - Top 5 States by sales.
-  - Age vs Gender distribution.
-  - Men vs Women sales comparison.
-  - Orders vs Sales analysis.
-  - Pie charts for Channel contribution and Order Status distribution.
 
 
-### **Main Dashboard Overview**
-![Main Dashboard Overview](excel.png)
+# 📊 SalesInsight-Annual Sales Report Dashboard  
 
-
+## 🌟 Overview  
+The **Annual Sales Report Dashboard** is an interactive **Excel-based analytics tool** designed to visualize and analyze store performance over a year. It helps uncover trends, understand customer demographics, and evaluate product performance — all in one dynamic view.  
 
 ---
 
-## Usage
-1. Open the dashboard to view overall insights.
-2. Use slicers to filter and analyze specific metrics.
-3. Explore charts and graphs for detailed performance insights.
-4. Export or save filtered views as needed.
+## 🚀 Features  
+- **🎯 Interactive Filters:** Slicers for *Category*, *Sales Channel*, and *Month* to explore insights dynamically.  
+- **📈 Visual Insights:**  
+  - Top 5 States by Sales  
+  - Age vs Gender Distribution  
+  - Men vs Women Sales Comparison  
+  - Orders vs Sales Performance  
+  - Channel Contribution Pie Chart  
+  - Order Status Distribution  
+- **💡 Data-Driven Decisions:** Quickly identify key markets, profitable channels, and sales patterns.  
 
 ---
 
-## Data
-- Includes fields such as Date, Category, Channel, State, Age, Gender, Order Status, and Revenue.
-- Visualizations are powered by summarized metrics like total sales, customer demographics, and channel performance.
+## 🖼️ Dashboard Preview  
+![Dashboard Preview](images/dashboard-overview.png)  
+
+> *(Replace with your actual image path or upload your screenshot to the repository and update the link.)*  
 
 ---
 
-## Customization
-Update the dataset in the `Data` sheet or modify the visuals and slicers to meet new requirements.
+## 🧩 Usage  
+1. Open the Excel file.  
+2. Use slicers to filter and analyze specific metrics.  
+3. Hover over charts for detailed insights.  
+4. Export filtered views or share insights easily.  
 
 ---
 
-## License
-This project is free to use and modify under the MIT License.
+## 🧠 Data Overview  
+Includes fields such as:  
+- **Date**, **Category**, **Channel**, **State**, **Age**, **Gender**, **Order Status**, **Revenue**  
+- Key metrics: Total Sales, Orders, and Customer Demographics  
+
+---
+
+## ⚙️ Customization  
+You can:  
+- Replace or update the dataset in the **Data Sheet**  
+- Modify visuals or slicers for additional insights  
+- Add new KPIs to suit your business needs  
+
+---
+
+## 🪪 License  
+This project is released under the **MIT License** — free to use, modify, and share with proper credit.  
+
+---
+
+## 💬 Connect  
+If you found this project insightful, feel free to ⭐ the repo or connect with me on [LinkedIn](#).  
+
